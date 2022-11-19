@@ -46,3 +46,13 @@ img {
   background-color: yellow;
   border-radius: 8px;
 }
+
+/* .contact-form {
+  display: flex;
+  flex-direction: column;
+} */
+
+.favorites {
+  display: flex;
+  justify-content: space-between;
+}
